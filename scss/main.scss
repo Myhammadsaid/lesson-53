@@ -50,7 +50,6 @@ body {
           display: flex;
           align-items: center;
           justify-content: space-between;
-          gap: 20px;
           .item {
             display: flex;
             align-items: center;
@@ -181,7 +180,7 @@ body {
           align-items: center;
           justify-content: space-evenly;
           flex-wrap: wrap;
-          gap: 50px;
+          gap: 20px;
           .hero-card {
             max-width: 420px;
             background: #fff;

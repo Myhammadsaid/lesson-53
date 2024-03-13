@@ -56,7 +56,6 @@ body header .header-style nav .nav-items {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  gap: 20px;
 }
 body header .header-style nav .nav-items .item {
   display: flex;
@@ -185,7 +184,7 @@ body main .hero .hero-style .hero-cards {
   align-items: center;
   justify-content: space-evenly;
   flex-wrap: wrap;
-  gap: 50px;
+  gap: 20px;
 }
 body main .hero .hero-style .hero-cards .hero-card {
   max-width: 420px;
